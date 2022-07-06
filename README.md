@@ -18,5 +18,9 @@
   
   ##
  
+ <div>
  <a href="https://instagram.com/morphsue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="mailto:mateuscosta_pro@hotmail.com?subject=Digite%20aqui%20o%20Assunto...%20(Via%20GitHub)&body=Ol%C3%A1%20Mateus%2C%20estou%20enviando%20este%20email%20atrav%C3%A9s%20do%20GitHub..." target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ 
+ ![Snake animation](https://github.com/MorpheusGH/MorpheusGH/blob/output/github-contribution-grid-snake.svg)
+ </div>
